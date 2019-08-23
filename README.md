@@ -14,4 +14,4 @@ I was able to convert the program to an executable file using PyInstaller in my 
 C:\file_path> pyinstaller --onefile GUI.py --exclude-module PyQt5
 ```
 
-Where file_path is the location of GUI.py and all other python files found in this repository. GUI.com is the entry point for the program, so if you tell PyInstaller where it is, and the other files are placed appropriately, it will include the rest of the python files in the executable.
+Where file_path is the location of GUI.py and all other python files found in this repository. GUI.py is the entry point for the program, so if you tell PyInstaller where it is, and the other files are placed appropriately, it will include the rest of the python files in the executable.
