@@ -1,6 +1,6 @@
 # Roast-Report-Tool
 
-
+[Here is a link to an image of the GUI.](https://imgur.com/a/VpXnKmK)
 
 This is a simple tool that logs into your Roastlog account, scrapes data from your roast pages, reads in data from csv files, and outputs some reports and visualizations.
 
